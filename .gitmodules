@@ -1,0 +1,3 @@
+[submodule "balance"]
+	path = balance
+	url = https://gitlab.com/coinhubs/balance

@@ -1,0 +1,1 @@
+# B2C - backend for frontend service for b2c interactions
